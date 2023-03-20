@@ -27,12 +27,15 @@ Below are some example that describes the medical conversational task.
  
  ### ChatDoctor: Yes, we will prescribe propofol to help you sleep through the procedures, midazolam (Versed) to help relax you, and meperidine (Demerol) to manage your pain. We will also administer sodium bicarbonate to maintain your body pH levels and aminophylline to counteract any respiratory issues caused by the sedatives.
  ```
-
+ 
+ ## Interactive Demo Page:
+We are developing the Demo Page and it is coming soon!
+ 
  ## Model Weights:
 ChatDoctor Version 1.0: [link](https://drive.google.com/drive/folders/1U4McOkZ-YFeaJaTnDokU625BncaTeL0R?usp=share_link)
 
  ## Model Preparation:
-Download the ChatDoctor Version 1.0 model weights and place the weights file in the ./results folder.
+Download the ChatDoctor Version 1.0 model weights and place the weights file in the ./result folder.
 
  ## How to inference
  ```python
