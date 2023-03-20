@@ -52,6 +52,7 @@ Download the ChatDoctor Version 1.0 model weights and place the weights file in 
  It is coming soon!
  
  ## How to inference
+ You can build a ChatDoctor model on your own machine and communicate with it.
  ```python
 python chat.py
  ```
