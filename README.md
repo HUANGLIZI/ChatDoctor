@@ -46,7 +46,7 @@ You can download the following model weights:
 ChatDoctor Version 1.0: [link](https://drive.google.com/drive/folders/1U4McOkZ-YFeaJaTnDokU625BncaTeL0R?usp=share_link)
 
  ## Model Preparation:
-Download the ChatDoctor Version 1.0 model weights and place the weights file in the ./result folder.
+Download the [ChatDoctor Version 1.0](https://drive.google.com/file/d/1pMH0ttKWv4KfEOXBc5hTCKshV8f51KBa/view?usp=sharing) model weights and place the weights file in the ./result folder.
 
  ## How to fine-tuning
  It is coming soon!
