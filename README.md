@@ -55,3 +55,16 @@ Download the ChatDoctor Version 1.0 model weights and place the weights file in 
  ```python
 python chat.py
  ```
+
+## Reference
+
+ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge
+
+```
+@article{li2023chatdoctor,
+  title={ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge},
+  author={Li, Yunxiang and Li, Zihan and Zhang, Kai and Dan, Ruilong and Dohopolski, Michael and Zhang, You},
+  journal={---},
+  year={2023}
+}
+```
