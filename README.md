@@ -34,12 +34,12 @@ Below are some example that describes the medical conversational task.
 pip install -r requirements.txt
 ```
 
+ ## Interactive Demo Page:
+We are developing the Demo Page and it is coming soon!
+
  ## ChatDoctor Medical Corpus:
 You can download the following medical corpus:
 ChatDoctor Medical Corpus Version 1.0: [link](https://drive.google.com/file/d/1pMH0ttKWv4KfEOXBc5hTCKshV8f51KBa/view?usp=sharing)
-
- ## Interactive Demo Page:
-We are developing the Demo Page and it is coming soon!
  
  ## Model Weights:
 You can download the following model weights:
