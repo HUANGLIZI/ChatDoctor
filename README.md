@@ -37,15 +37,15 @@ pip install -r requirements.txt
  ## Interactive Demo Page:
 We are developing the Demo Page and it is coming soon!
 
- ## ChatDoctor Medical Corpus:
+ ### ChatDoctor Medical Corpus:
 You can download the following medical corpus:
 ChatDoctor Medical Corpus Version 1.0: [link](https://drive.google.com/file/d/1pMH0ttKWv4KfEOXBc5hTCKshV8f51KBa/view?usp=sharing)
  
- ## Model Weights:
+ ### Model Weights:
 You can download the following model weights:
 ChatDoctor Version 1.0: [link](https://drive.google.com/drive/folders/1U4McOkZ-YFeaJaTnDokU625BncaTeL0R?usp=share_link)
 
- ## Model Preparation:
+ ### Model Preparation:
 Download the [ChatDoctor Version 1.0](https://drive.google.com/drive/folders/1U4McOkZ-YFeaJaTnDokU625BncaTeL0R?usp=share_link) model weights and place the weights file in the ./result folder.
 
  ## How to fine-tuning
