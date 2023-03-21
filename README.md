@@ -1,5 +1,5 @@
-<p align="center" width="100%">
-<img src="fig/logo.png" style="width: 50%; min-width: 300px; display: block; margin: auto;">
+<p align="center" width="80%">
+<img src="fig/logo.png" style="width: 40%; min-width: 300px; display: block; margin: auto;">
 </p>
 
 
