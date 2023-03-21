@@ -1,3 +1,8 @@
+<p align="center" width="100%">
+<img src="fig/logo.png" style="width: 50%; min-width: 300px; display: block; margin: auto;">
+</p>
+
+
 # ChatDoctor: A Medical Chat Model Fine-tuned on LLaMA Model using Medical Domain Knowledge
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/HUANGLIZI/ChatDoctor/blob/main/LICENSE) 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
